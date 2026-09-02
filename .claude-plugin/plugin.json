@@ -1,0 +1,17 @@
+{
+  "name": "github-code-submission",
+  "version": "0.1.0",
+  "description": "Submit coherent code changes with automatic GitHub Issue and pull-request tracking.",
+  "author": {
+    "name": "merlinz165"
+  },
+  "license": "MIT",
+  "keywords": [
+    "github",
+    "issues",
+    "pull-requests",
+    "code-submission",
+    "delivery"
+  ],
+  "homepage": "https://github.com/merlinz165/github-code-submission"
+}
