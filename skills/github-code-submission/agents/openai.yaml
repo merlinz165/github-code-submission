@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitHub Code Submission"
+  short_description: "Submit code with automatic GitHub Issue and PR tracking"
+  default_prompt: "Use $github-code-submission to submit this code with a related GitHub Issue and pull request."
